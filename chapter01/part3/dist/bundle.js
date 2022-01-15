@@ -1,0 +1,1 @@
+!function(){"use strict";console.log(46),console.log("haha"),console.log("nihao")}();
